@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIWC 8",
+                "type": "WPT",
+                "time": "2019-06-24T13:00:28Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2973,
+                    36.744565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 9",
+                "type": "WPT",
+                "time": "2019-06-24T13:01:18Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.288428333,
+                    36.734605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 7",
+                "type": "WPT",
+                "time": "2019-06-24T12:59:52Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.296501667,
+                    36.75859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 6",
+                "type": "WPT",
+                "time": "2019-06-24T12:59:10Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.295588333,
+                    36.772206667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 5",
+                "type": "WPT",
+                "time": "2019-06-24T12:58:26Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.307408333,
+                    36.778478333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 4",
+                "type": "WPT",
+                "time": "2019-06-24T12:57:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.29729,
+                    36.793225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 3",
+                "type": "WPT",
+                "time": "2019-06-24T12:56:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.29041,
+                    36.805873333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 2",
+                "type": "WPT",
+                "time": "2019-06-24T12:56:06Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.29081,
+                    36.820283333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 10",
+                "type": "WPT",
+                "time": "2019-06-24T13:02:08Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.273781667,
+                    36.730241667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 1",
+                "type": "WPT",
+                "time": "2019-06-24T12:55:30Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.295101667,
+                    36.8342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 0",
+                "type": "WPT",
+                "time": "2019-06-24T12:53:50Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.298452965,
+                    36.847763563
+                ]
+            }
+        }
+    ]
+}

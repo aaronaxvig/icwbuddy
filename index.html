@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+    <script src="js/LoadData.js"></script>
+    <script>
+
+        function start() {
+            document.getElementById("status").innerHTML = "loading data";
+            loadAllData()
+                .then(function() {
+                    getLocation();
+                });
+        }
+
+        function getLocation() {
+            document.getElementById("status").innerHTML = "getting location";
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition, showError);
+            } 
+            else {
+                x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function showPosition(position) {
+            
+            document.getElementById("status").innerHTML = "Running calculations";
+
+            var currentLocation = turf.point([position.coords.longitude, position.coords.latitude]);
+            
+            // 0.3 miles from AICW 6
+            //var currentLocation = turf.point([-76.2932567,36.7960833]);
+            
+            var nearest = turf.nearestPoint(currentLocation, data);
+
+            document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude; 
+            document.getElementById("nearest").innerHTML = nearest.properties.name;
+            document.getElementById("distance").innerHTML = nearest.properties.distanceToPoint / 1.852 + " nautical miles";
+
+            document.getElementById("status").innerHTML = "Updated at " + new Date(position.timestamp).toString();
+        }
+
+        function showError(error) {
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                x.innerHTML = "User denied the request for geolocation."
+                break;
+                case error.POSITION_UNAVAILABLE:
+                x.innerHTML = "Location information is unavailable."
+                break;
+                case error.TIMEOUT:
+                x.innerHTML = "The request to get user location timed out."
+                break;
+                case error.UNKNOWN_ERROR:
+                x.innerHTML = "An unknown error occurred."
+                break;
+            }
+        } 
+
+    </script>
+    <body onload="start()">
+        <div>Status: </div>
+        <div id="status"></div>
+        <br />
+        <div>Current location: </div>
+        <div id="location"></div>
+        <br />
+        <div>Nearest marker: </div>
+        <div id="nearest"></div>
+        <br />
+        <div>Distance: </div>
+        <div id="distance"></div>
+    </body>
+</html>

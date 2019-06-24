@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 100",
+                "type": "WPT",
+                "time": "2019-06-24T09:31:46Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.026226667,
+                    35.680923333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 101",
+                "type": "WPT",
+                "time": "2019-06-24T09:33:23Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.037408333,
+                    35.670416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 102",
+                "type": "WPT",
+                "time": "2019-06-24T09:33:57Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.054718333,
+                    35.67186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 103",
+                "type": "WPT",
+                "time": "2019-06-24T09:34:22Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.072105,
+                    35.67501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 104",
+                "type": "WPT",
+                "time": "2019-06-24T09:34:47Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.089065,
+                    35.670986667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AICW 105",
+                "type": "WPT",
+                "time": "2019-06-24T09:35:43Z",
+                "sym": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.104375,
+                    35.666495
+                ]
+            }
+        }
+    ]
+}
