@@ -7,6 +7,8 @@ As an example alternate use of the data, you could import the GPX files into you
 ### Description
 The data is a set of GPX files.  Each one contains 100 data points which are located approximately one mile apart on the Atlantic Intracoastal Waterway.  Data for other waterway mile markers is available from USACE, seemingly for all inland waterways and west coast.  The closest that I was able to find for the AICW was line segments covering the whole route, but it still would have required some process to divide it up into one mile chunks and would probably not line up with the five mile marks that are on NOAA charts.
 
+Data points are named AICW 0, AICW 1, etc.  For the Dismal Swamp route there are additional data points "AICW DS 8" through "AICW DS 81".
+
 ### Accuracy
 The miles are traced on the magenta line from each five-mile marker that is shown on the NOAA raster (RNC) charts.  Starting at mile 0 for example, the next four points are each one mile "south" along the magenta line.  The space between the fourth and fifth mile markers of any given section often varies short or long by up to 0.15 miles, and rarely up to 0.5 miles off.  I felt that this approach was good because it gives the most spans that are actually one mile in length and was easy to implement.
 
