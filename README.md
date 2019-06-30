@@ -9,12 +9,16 @@ The data is a set of GPX files.  Each one contains 100 data points which are loc
 
 Data points are named AICW 0, AICW 1, etc.  For the Dismal Swamp route there are additional data points "AICW DS 8" through "AICW DS 81".
 
+### Coverage
+The data includes miles 0-1153 of the AICW, and includes the alternate route through the Dismal Swamp.  I am not very familiar with the routes past mile 1153 in the Keys so have not attempted to mark those miles out.  The Hawk Channel could easily be measured out and marked as AICW Hawk 1201 for example and I will probably do that sometime.
+
 ### Accuracy
 The miles are traced on the magenta line from each five-mile marker that is shown on the NOAA raster (RNC) charts.  Starting at mile 0 for example, the next four points are each one mile "south" along the magenta line.  The space between the fourth and fifth mile markers of any given section often varies short or long by up to 0.15 miles, and rarely up to 0.5 miles off.  I felt that this approach was good because it gives the most spans that are actually one mile in length and was easy to implement.
 
 ### Methodology
 I use OpenCPN with the NOAA raster charts to manually drop markers for each mile.  The process went like this:
 
+1. Download some charts.  Downloading all the charts in a region/state oftentimes results in charts being shown which don't have the magenta line.  This can be fixed by hiding those particular charts.  Downloading only the ones that are described as "Intracoastal \<something\>" is another easy solution.
 1. Place a marker at mile 0 with the Ctrl+M hotkey and then double click on it to change the name to "AICW 0". 
 1. Press Ctrl+R to start creating a route. 
 1. Create points for the route along the magenta AICW line until the route totals 1.00mi in length.  You must have OpenCPN configured for statute miles.
