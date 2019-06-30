@@ -1,1203 +1,303 @@
 <?xml version="1.0"?>
-<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+<gpx version="1.1" creator="Aaron Axvig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <wpt lat="34.010536667" lon="-77.940143333">
-    <time>2019-06-26T21:04:08Z</time>
     <name>AICW 300</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>12040000-fbaf-48c6-95e4-64746e4effff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.996416667" lon="-77.944336667">
-    <time>2019-06-27T07:24:00Z</time>
     <name>AICW 301</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>29260000-e163-48af-ba9a-cf6924060000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.982203333" lon="-77.947401667">
-    <time>2019-06-27T07:24:18Z</time>
     <name>AICW 302</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>57cdffff-0d04-4c04-ab2f-519629b70000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.968101667" lon="-77.950178333">
-    <time>2019-06-27T07:24:28Z</time>
     <name>AICW 303</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>3e2d0000-a94d-4ad6-82e6-f8b13aac0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.955001667" lon="-77.957615000">
-    <time>2019-06-27T07:24:43Z</time>
     <name>AICW 304</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5349ffff-8b8b-48f1-827a-b02f4ecfffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.946323333" lon="-77.967636667">
-    <time>2019-06-27T07:25:25Z</time>
     <name>AICW 305</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>17610000-9afb-4c7b-85c2-df3906b30000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.936573333" lon="-77.980435000">
-    <time>2019-06-27T07:25:43Z</time>
     <name>AICW 306</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>399a0000-1c10-4a91-91de-4a287158ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.926456667" lon="-77.992930000">
-    <time>2019-06-27T07:25:54Z</time>
     <name>AICW 307</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5d41ffff-6254-485a-961f-48f800bc0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.918106667" lon="-78.007158333">
-    <time>2019-06-27T07:26:08Z</time>
     <name>AICW 308</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>0cde0000-a863-4c5e-a338-76d80e220000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.915391667" lon="-78.023173333">
-    <time>2019-06-27T07:26:19Z</time>
     <name>AICW 309</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5e59ffff-e39b-45d6-af80-23147d66ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.917616667" lon="-78.040440000">
-    <time>2019-06-27T07:27:07Z</time>
     <name>AICW 310</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>19b40000-5c0e-4459-949c-64de2b610000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.919863333" lon="-78.057608333">
-    <time>2019-06-27T07:29:12Z</time>
     <name>AICW 311</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>7547ffff-00c4-49c3-a2f6-ebcb088c0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.922046667" lon="-78.074853333">
-    <time>2019-06-27T07:29:20Z</time>
     <name>AICW 312</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>741cffff-df79-4087-a895-957d43c7ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.922171667" lon="-78.092181667">
-    <time>2019-06-27T07:29:30Z</time>
     <name>AICW 313</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>59d7ffff-326e-4ab0-b698-a9bf552dffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.922148333" lon="-78.109536667">
-    <time>2019-06-27T07:29:37Z</time>
     <name>AICW 314</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6bf6ffff-c7df-47aa-bcf5-a0b569e2ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.924520000" lon="-78.128211667">
-    <time>2019-06-27T07:30:11Z</time>
     <name>AICW 315</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>02760000-5c48-4b18-98da-31e4180a0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.926355000" lon="-78.145388333">
-    <time>2019-06-27T07:30:28Z</time>
     <name>AICW 316</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>61a6ffff-de6f-4e27-ae8a-67d01c4d0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.927960000" lon="-78.162675000">
-    <time>2019-06-27T07:30:37Z</time>
     <name>AICW 317</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5badffff-7d6c-4fe7-9c35-8eed709fffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.927823333" lon="-78.179906667">
-    <time>2019-06-27T07:30:49Z</time>
     <name>AICW 318</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>7d94ffff-4a0a-4151-84e4-e05f6feeffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.921933333" lon="-78.194791667">
-    <time>2019-06-27T07:31:04Z</time>
     <name>AICW 319</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>3c220000-c52d-4299-b92f-bea904100000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.921363333" lon="-78.212518333">
-    <time>2019-06-27T07:31:10Z</time>
     <name>AICW 320</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>0a160000-e8f7-4576-99d8-8fcd63eeffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.922321667" lon="-78.227635000">
-    <time>2019-06-27T07:31:33Z</time>
     <name>AICW 321</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>22900000-907d-4fd2-861a-781451a5ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.919688333" lon="-78.244743333">
-    <time>2019-06-27T07:31:40Z</time>
     <name>AICW 322</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>7b86ffff-dfef-45b4-ac44-df5b0d960000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.918161667" lon="-78.262016667">
-    <time>2019-06-27T07:31:57Z</time>
     <name>AICW 323</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>73a8ffff-318a-46b6-a144-c5437939ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.916173333" lon="-78.278851667">
-    <time>2019-06-27T07:32:17Z</time>
     <name>AICW 324</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1cc90000-6c74-4f25-b156-43406d85ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.916185000" lon="-78.292706667">
-    <time>2019-06-27T07:32:22Z</time>
     <name>AICW 325</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1d4d0000-54f0-4620-a211-0b6424340000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.916093333" lon="-78.310115000">
-    <time>2019-06-27T07:32:43Z</time>
     <name>AICW 326</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2af60000-4bec-47d1-a440-ef231f4b0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.914716667" lon="-78.327343333">
-    <time>2019-06-27T07:32:50Z</time>
     <name>AICW 327</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>471bffff-2674-4e20-af66-83af0b310000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.912576667" lon="-78.344586667">
-    <time>2019-06-27T07:33:05Z</time>
     <name>AICW 328</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>32510000-c7b3-4724-8f03-e8cd3d8f0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.909456667" lon="-78.361541667">
-    <time>2019-06-27T07:33:11Z</time>
     <name>AICW 329</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4c31ffff-c735-4328-bac1-4ed8702dffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.911528333" lon="-78.378648333">
-    <time>2019-06-27T07:33:26Z</time>
     <name>AICW 330</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>17340000-a28f-4767-afc0-3ff45309ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.904231667" lon="-78.392968333">
-    <time>2019-06-27T07:33:48Z</time>
     <name>AICW 331</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>79fbffff-3b6a-45c2-b947-7f681fdd0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.901828333" lon="-78.409896667">
-    <time>2019-06-27T07:33:56Z</time>
     <name>AICW 332</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6f85ffff-8a1d-42d0-bb34-36de41b0ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.897718333" lon="-78.426426667">
-    <time>2019-06-27T07:34:07Z</time>
     <name>AICW 333</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>32750000-9f89-48ba-a519-63ee76f7ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.895020000" lon="-78.443476667">
-    <time>2019-06-27T07:34:19Z</time>
     <name>AICW 334</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4f31ffff-0a62-45b4-ac2c-1c2040ccffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.891410000" lon="-78.461365000">
-    <time>2019-06-27T07:34:26Z</time>
     <name>AICW 335</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>627fffff-8c93-4369-b231-b493532affff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.888756667" lon="-78.478443333">
-    <time>2019-06-27T07:34:53Z</time>
     <name>AICW 336</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>23b00000-189c-46da-bf32-13f60efd0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.885410000" lon="-78.495180000">
-    <time>2019-06-27T07:35:00Z</time>
     <name>AICW 337</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>0e880000-4efa-437a-8711-3a246e3fffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.881218333" lon="-78.511970000">
-    <time>2019-06-27T07:35:16Z</time>
     <name>AICW 338</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>795fffff-5444-47d2-a987-49705046ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.877563333" lon="-78.528705000">
-    <time>2019-06-27T07:35:24Z</time>
     <name>AICW 339</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>262e0000-ec1d-4854-8c13-6d74317e0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.873406667" lon="-78.546181667">
-    <time>2019-06-27T07:35:31Z</time>
     <name>AICW 340</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>24790000-0b3a-4f31-a206-825709b70000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.865575000" lon="-78.560961667">
-    <time>2019-06-27T07:35:51Z</time>
     <name>AICW 341</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>7836ffff-a3e1-440a-84f3-6544309b0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.871521667" lon="-78.573993333">
-    <time>2019-06-27T07:35:59Z</time>
     <name>AICW 342</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>3a000000-c1e1-4ce4-9965-75563e080000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.873798333" lon="-78.589605000">
-    <time>2019-06-27T07:36:11Z</time>
     <name>AICW 343</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>757effff-9671-4ffb-95f8-8b894b2effff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.870586667" lon="-78.606586667">
-    <time>2019-06-27T07:36:20Z</time>
     <name>AICW 344</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>37cc0000-5e48-482b-ac8d-60fa7c6affff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.864185000" lon="-78.619345000">
-    <time>2019-06-27T07:36:23Z</time>
     <name>AICW 345</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>276b0000-f33b-4758-a2d8-76f233d00000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.859401667" lon="-78.635586667">
-    <time>2019-06-27T07:36:40Z</time>
     <name>AICW 346</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6285ffff-4c18-412f-925a-dd6b1ed30000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.854821667" lon="-78.651828333">
-    <time>2019-06-27T07:36:48Z</time>
     <name>AICW 347</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5158ffff-4d1c-4501-9528-e8ad15780000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.845435000" lon="-78.665188333">
-    <time>2019-06-27T07:36:55Z</time>
     <name>AICW 348</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>70f7ffff-d7e7-4e6f-80e8-ec9567c2ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.836365000" lon="-78.678550000">
-    <time>2019-06-27T07:37:05Z</time>
     <name>AICW 349</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5296ffff-7720-4c77-80c8-41923ece0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.830645000" lon="-78.695586667">
-    <time>2019-06-27T07:37:12Z</time>
     <name>AICW 350</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>13560000-56b0-474b-a21e-cae911a00000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.825311667" lon="-78.711636667">
-    <time>2019-06-27T07:37:28Z</time>
     <name>AICW 351</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1b860000-c601-4540-9ce7-9acf4ea7ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.815465000" lon="-78.724285000">
-    <time>2019-06-27T07:37:41Z</time>
     <name>AICW 352</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>7f72ffff-3bc4-4023-8b63-5fdc37bb0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.804933333" lon="-78.736055000">
-    <time>2019-06-27T07:37:52Z</time>
     <name>AICW 353</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>726cffff-3f04-4c74-9421-b0c77b01ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.799553333" lon="-78.752213333">
-    <time>2019-06-27T07:38:05Z</time>
     <name>AICW 354</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>65c9ffff-bfdb-47ef-8047-fc8d4f7effff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.794286667" lon="-78.768208333">
-    <time>2019-06-27T07:38:12Z</time>
     <name>AICW 355</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6ab0ffff-a86b-4af1-b5b1-f6ef62c9ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.786398333" lon="-78.782750000">
-    <time>2019-06-27T07:38:33Z</time>
     <name>AICW 356</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4d24ffff-0472-406e-8a66-019c29320000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.777870000" lon="-78.796741667">
-    <time>2019-06-27T07:38:50Z</time>
     <name>AICW 357</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>0a4f0000-8cd5-489d-a7b2-75f229710000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.769340000" lon="-78.810733333">
-    <time>2019-06-27T07:39:00Z</time>
     <name>AICW 358</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>62e3ffff-875f-4688-be91-d45d32680000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.760810000" lon="-78.824861667">
-    <time>2019-06-27T07:39:07Z</time>
     <name>AICW 359</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>153a0000-c6e3-4402-84af-2d547929ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.753625000" lon="-78.840390000">
-    <time>2019-06-27T07:39:13Z</time>
     <name>AICW 360</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>14fc0000-9f9f-4333-8c0e-817d56edffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.746668333" lon="-78.855671667">
-    <time>2019-06-27T07:39:31Z</time>
     <name>AICW 361</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>3baa0000-1a44-469f-b56f-80134f0fffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.739733333" lon="-78.870788333">
-    <time>2019-06-27T07:39:35Z</time>
     <name>AICW 362</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>08b60000-30b2-46dc-850d-55980c770000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.732865000" lon="-78.886043333">
-    <time>2019-06-27T07:39:41Z</time>
     <name>AICW 363</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2eb40000-ab7b-4cda-a8ab-56846672ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.725951667" lon="-78.901325000">
-    <time>2019-06-27T07:39:48Z</time>
     <name>AICW 364</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>302b0000-7310-401b-904a-3a6a67b6ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.718446667" lon="-78.916303333">
-    <time>2019-06-27T07:39:53Z</time>
     <name>AICW 365</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>36ab0000-1402-4e3b-a746-16f64cbfffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.708715000" lon="-78.929373333">
-    <time>2019-06-27T07:40:09Z</time>
     <name>AICW 366</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>14cd0000-1576-403e-b361-15d26701ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.699186667" lon="-78.942305000">
-    <time>2019-06-27T07:40:15Z</time>
     <name>AICW 367</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>70f3ffff-ff6d-40af-9254-011c116d0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.695220000" lon="-78.958141667">
-    <time>2019-06-27T07:40:30Z</time>
     <name>AICW 368</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>017d0000-4b76-4b4a-91da-e95d3c300000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.700303333" lon="-78.974361667">
-    <time>2019-06-27T07:40:36Z</time>
     <name>AICW 369</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>33ef0000-bfcd-46f1-8fde-b371705dffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.694901667" lon="-78.989980000">
-    <time>2019-06-27T07:40:45Z</time>
     <name>AICW 370</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2ed10000-f29f-4c95-a45b-2eb838390000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.687058333" lon="-79.004583333">
-    <time>2019-06-27T07:41:22Z</time>
     <name>AICW 371</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>36380000-e95f-4ec1-aaee-1fd4167d0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.682476667" lon="-79.020530000">
-    <time>2019-06-27T07:41:37Z</time>
     <name>AICW 372</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6b58ffff-f261-4c0a-9b52-96ad7f21ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.684710000" lon="-79.037681667">
-    <time>2019-06-27T07:41:42Z</time>
     <name>AICW 373</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2a990000-716c-4c8c-9931-268049e1ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.679695000" lon="-79.053273333">
-    <time>2019-06-27T07:41:58Z</time>
     <name>AICW 374</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6871ffff-e2bb-436a-8b0a-c2057631ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.667841667" lon="-79.061921667">
-    <time>2019-06-27T07:42:05Z</time>
     <name>AICW 375</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>369a0000-e40b-4174-9ddb-95891a600000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.661328333" lon="-79.076943333">
-    <time>2019-06-27T07:42:30Z</time>
     <name>AICW 376</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1f090000-412a-4a25-b586-df5124aa0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.655638333" lon="-79.092506667">
-    <time>2019-06-27T07:43:30Z</time>
     <name>AICW 377</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>3b4f0000-8d3d-4612-8d66-b6d729ea0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.641936667" lon="-79.093361667">
-    <time>2019-06-27T07:43:40Z</time>
     <name>AICW 378</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1d130000-0de2-4844-8903-35a24a8dffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.627751667" lon="-79.096376667">
-    <time>2019-06-27T07:43:59Z</time>
     <name>AICW 379</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1c000000-4956-49e7-8f3b-d01732820000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.616493333" lon="-79.089918333">
-    <time>2019-06-27T07:44:03Z</time>
     <name>AICW 380</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>710bffff-0854-4e1c-a459-0d58104a0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.603895000" lon="-79.090170000">
-    <time>2019-06-27T07:45:01Z</time>
     <name>AICW 381</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>78adffff-df15-40aa-ba74-c6a74fa4ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.592718333" lon="-79.098563333">
-    <time>2019-06-27T07:45:13Z</time>
     <name>AICW 382</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4450ffff-04fa-4bb7-841a-f8d33bf90000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.579488333" lon="-79.102358333">
-    <time>2019-06-27T07:45:30Z</time>
     <name>AICW 383</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4ee3ffff-940d-4ae8-b8b9-4fd470ddffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.568475000" lon="-79.094568333">
-    <time>2019-06-27T07:45:41Z</time>
     <name>AICW 384</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>16e80000-e991-4f19-9df8-44e87ba6ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.541648333" lon="-79.095623333">
-    <time>2019-06-27T07:45:54Z</time>
     <name>AICW 385</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>53bcffff-8403-4831-9c11-df0f0f510000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.531595000" lon="-79.106655000">
-    <time>2019-06-27T07:46:19Z</time>
     <name>AICW 386</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>335d0000-7ae6-4386-a18d-b73d79dbffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.520618333" lon="-79.117861667">
-    <time>2019-06-27T07:46:28Z</time>
     <name>AICW 387</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6101ffff-4772-4018-9c33-f51909ea0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.509975000" lon="-79.126581667">
-    <time>2019-06-27T07:46:45Z</time>
     <name>AICW 388</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>6268ffff-b003-4933-b782-97a10ba10000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.503563333" lon="-79.140528333">
-    <time>2019-06-27T07:46:55Z</time>
     <name>AICW 389</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>17600000-16a2-40fb-a22a-a84d481bffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.487720000" lon="-79.147866667">
-    <time>2019-06-27T07:47:00Z</time>
     <name>AICW 390</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2e400000-c91d-40b7-8e41-a9037aaeffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.474830000" lon="-79.155581667">
-    <time>2019-06-27T07:47:13Z</time>
     <name>AICW 391</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2f440000-5690-4749-8189-bd9f224d0000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.461218333" lon="-79.160310000">
-    <time>2019-06-27T07:57:14Z</time>
     <name>AICW 392</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>4ba7ffff-9fdd-4c44-ac76-8b851d350000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.449401667" lon="-79.170306667">
-    <time>2019-06-27T07:47:25Z</time>
     <name>AICW 393</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>0e1d0000-ffc1-4556-8992-452c7e0affff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.439063333" lon="-79.182393333">
-    <time>2019-06-27T07:47:40Z</time>
     <name>AICW 394</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>5de5ffff-ea27-4df7-bec0-48b407960000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.433968333" lon="-79.187871667">
-    <time>2019-06-27T07:47:46Z</time>
     <name>AICW 395</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>60c8ffff-7fa6-450e-9e5d-ebcd3db10000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.423321667" lon="-79.198205000">
-    <time>2019-06-27T07:48:35Z</time>
     <name>AICW 396</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>1d330000-9231-46f4-8afa-5ee238810000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.416371667" lon="-79.212920000">
-    <time>2019-06-27T07:48:49Z</time>
     <name>AICW 397</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>24840000-6ffe-41ec-a734-62782ed20000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.404156667" lon="-79.221956667">
-    <time>2019-06-27T07:48:55Z</time>
     <name>AICW 398</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>10020000-67c4-4710-aa6a-9c9129d50000</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
   <wpt lat="33.392373333" lon="-79.232003333">
-    <time>2019-06-27T07:49:11Z</time>
     <name>AICW 399</name>
-    <sym>triangle</sym>
-    <type>WPT</type>
-    <extensions>
-      <opencpn:guid>2d2d0000-6aee-4247-9973-61604000ffff</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
-    </extensions>
   </wpt>
 </gpx>
