@@ -5,71 +5,66 @@ Get-ChildItem ".\data\*.gpx" | ForEach-Object {
 
     $NewFileName = $_.FullName.Substring(0, $_.FullName.Length - 3) + "geojson"
 
-    $Geometry = [Geometry]::new("Point", (5.6, 6.7))
-    $Properties = [Properties]::new("Test Point")
-    $Feature = [Feature]::new($Geometry, $Properties)
-    [Feature[]] $FeatureArray = $Feature
-    $FeatureCollection = [FeatureCollection]::new($FeatureArray)
-    $GeoJson = [GeoJson]::new($FeatureCollection)
+    [Feature[]] $FeatureArray = @()
 
+    $xml.gpx.wpt | ForEach-Object {
+        $Geometry = [Geometry]::new("Point", ($_.GetAttribute("lon"), $_.GetAttribute("lat")))
+        $Properties = [Properties]::new($_.name)
+        $Feature = [Feature]::new($Geometry, $Properties)
 
-    ConvertTo-Json -InputObject $GeoJson.FeatureCollection -Depth 100 | Out-File -FilePath $NewFileName 
-}
-
-class GeoJson {
-    [FeatureCollection[]]$FeatureCollection
-
-    GeoJson(
-        [FeatureCollection]$featureCollection
-    ) {
-        $this.FeatureCollection = $featureCollection
+        $FeatureArray += $Feature
     }
+
+    $FeatureCollection = [FeatureCollection]::new($FeatureArray)
+
+
+    ConvertTo-Json -InputObject $FeatureCollection -Depth 100 | Out-File -FilePath $NewFileName 
 }
 
 class FeatureCollection {
     [string]$type = "FeatureCollection"
-    [Feature[]]$Features
+    [Feature[]]$features
 
     FeatureCollection(
         [Feature[]]$features
     ) {
-        $this.Features = $features
+        $this.features = $features
     }
 }
 
 class Feature {
     [string]$type = "Feature"
-    [Geometry]$Geometry
-    [Properties]$Properties
+    [Geometry]$geometry
+    [Properties]$properties
 
     Feature(
         [Geometry]$geometry,
         [Properties]$properties
     ) {
-        $this.Geometry = $Geometry
-        $this.Properties = $properties
+        $this.geometry = $Geometry
+        $this.properties = $properties
     }
 }
 
 class Geometry {
-    [string]$Type
-    [double[]]$Coordinates
+    [string]$type
+    [double[]]$coordinates
 
     Geometry(
         [string]$type,
         [double[]]$coordinates
     ) {
-        $this.Type = $type
-        $this.Coordinates = $coordinates
+        $this.type = $type
+        $this.coordinates = $coordinates
     }
 }
 
 class Properties {
-    [string]$Name
+    [string]$name
 
     Properties(
         [string]$name
     ) {
-        $this.Name = $name
+        $this.name = $name
     }
 }
