@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
     <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
     <script src="js/LoadData.js"></script>
+    <script src="js/moment.js"></script>
     <script>
 
         function start() {
-            document.getElementById("status").innerHTML = "loading data";
+            document.getElementById("status").innerHTML = "Loading data";
             loadAllData()
                 .then(function() {
                     getLocation();
@@ -13,7 +17,7 @@
         }
 
         function getLocation() {
-            document.getElementById("status").innerHTML = "getting location";
+            document.getElementById("status").innerHTML = "Getting location";
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(showPosition, showError);
             } 
@@ -33,11 +37,12 @@
             
             var nearest = turf.nearestPoint(currentLocation, data);
 
-            document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude; 
+            document.getElementById("latitude").innerHTML = position.coords.latitude.toFixed(5); 
+            document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5); 
             document.getElementById("nearest").innerHTML = nearest.properties.name;
-            document.getElementById("distance").innerHTML = nearest.properties.distanceToPoint / 1.852 + " nautical miles";
-
-            document.getElementById("status").innerHTML = "Updated at " + new Date(position.timestamp).toString();
+            document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
+            var now = new moment();
+            document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
         }
 
         function showError(error) {
@@ -66,16 +71,27 @@
                 <li><a href="data.html">Data</a></li>
             </ul>
         </nav>
-        <div>Status: </div>
-        <div id="status"></div>
-        <br />
-        <div>Current location: </div>
-        <div id="location"></div>
-        <br />
-        <div>Nearest marker: </div>
-        <div id="nearest"></div>
-        <br />
-        <div>Distance: </div>
-        <div id="distance"></div>
+        <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
+            <h2>Nearest marker</h2>
+            <h1 id="nearest"></h1>
+        </div>
+        <table>
+            <tr>
+                <td>Status:</td>
+                <td id="status"></td>
+            </tr>
+            <tr>
+                <td>Latitude:</td>
+                <td id="latitude"></td>
+            </tr>
+            <tr>
+                <td>Longitude:</td>
+                <td id="longitude"></td>
+            </tr>
+            <tr>
+                <td>Distance to nearest mile mark:</td>
+                <td id="distance"></td>
+            </tr>
+        </table>
     </body>
 </html>
