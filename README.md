@@ -32,4 +32,4 @@ I use OpenCPN with the NOAA raster charts to manually drop markers for each mile
 1. Open the Route and Mark Manager in OpenCPN and delete all the routes that you don't need anymore.
 1. Select all of the waypoints and export them.
 
-There is a lot of data in the exported GPX that probably isn't necessary.  I plan to write a script to clean those up.
+There is a PowerShell script that removes unnecessary data from the GPX files that OpenCPN exports.  A second sript creates GeoJSON copies of those GPX files.
