@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Aaron Axvig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="36.857395000" lon="-76.311878333">
+    <name>AICW -1</name>
+  </wpt>
+  <wpt lat="36.977866667" lon="-76.327648333">
+    <name>AICW -10</name>
+  </wpt>
+  <wpt lat="36.987631667" lon="-76.314230000">
+    <name>AICW -11</name>
+  </wpt>
+  <wpt lat="36.997770000" lon="-76.301281667">
+    <name>AICW -12</name>
+  </wpt>
+  <wpt lat="37.004541667" lon="-76.285920000">
+    <name>AICW -13</name>
+  </wpt>
+  <wpt lat="37.007493333" lon="-76.268021667">
+    <name>AICW -14</name>
+  </wpt>
+  <wpt lat="37.012700000" lon="-76.252080000">
+    <name>AICW -15</name>
+  </wpt>
+  <wpt lat="37.024040000" lon="-76.241138333">
+    <name>AICW -16</name>
+  </wpt>
+  <wpt lat="37.037113333" lon="-76.233530000">
+    <name>AICW -17</name>
+  </wpt>
+  <wpt lat="37.050995000" lon="-76.230848333">
+    <name>AICW -18</name>
+  </wpt>
+  <wpt lat="37.065451667" lon="-76.231138333">
+    <name>AICW -19</name>
+  </wpt>
+  <wpt lat="36.866543333" lon="-76.325821667">
+    <name>AICW -2</name>
+  </wpt>
+  <wpt lat="37.080020000" lon="-76.231500000">
+    <name>AICW -20</name>
+  </wpt>
+  <wpt lat="37.094471667" lon="-76.232008333">
+    <name>AICW -21</name>
+  </wpt>
+  <wpt lat="37.108370000" lon="-76.236898333">
+    <name>AICW -22</name>
+  </wpt>
+  <wpt lat="37.122123333" lon="-76.242696667">
+    <name>AICW -23</name>
+  </wpt>
+  <wpt lat="37.136335000" lon="-76.246608333">
+    <name>AICW -24</name>
+  </wpt>
+  <wpt lat="37.150660000" lon="-76.246608333">
+    <name>AICW -25</name>
+  </wpt>
+  <wpt lat="37.165211667" lon="-76.247043333">
+    <name>AICW -26</name>
+  </wpt>
+  <wpt lat="37.179646667" lon="-76.246898333">
+    <name>AICW -27</name>
+  </wpt>
+  <wpt lat="37.194195000" lon="-76.247188333">
+    <name>AICW -28</name>
+  </wpt>
+  <wpt lat="37.208756667" lon="-76.246920000">
+    <name>AICW -29</name>
+  </wpt>
+  <wpt lat="36.879113333" lon="-76.333726667">
+    <name>AICW -3</name>
+  </wpt>
+  <wpt lat="37.223165000" lon="-76.246753333">
+    <name>AICW -30</name>
+  </wpt>
+  <wpt lat="37.238281667" lon="-76.246318333">
+    <name>AICW -31</name>
+  </wpt>
+  <wpt lat="37.252816667" lon="-76.246463333">
+    <name>AICW -32</name>
+  </wpt>
+  <wpt lat="37.267235000" lon="-76.246898333">
+    <name>AICW -33</name>
+  </wpt>
+  <wpt lat="37.281765000" lon="-76.246898333">
+    <name>AICW -34</name>
+  </wpt>
+  <wpt lat="37.293871667" lon="-76.236898333">
+    <name>AICW -35</name>
+  </wpt>
+  <wpt lat="37.305170000" lon="-76.225595000">
+    <name>AICW -36</name>
+  </wpt>
+  <wpt lat="37.316696667" lon="-76.214581667">
+    <name>AICW -37</name>
+  </wpt>
+  <wpt lat="37.327415000" lon="-76.202116667">
+    <name>AICW -38</name>
+  </wpt>
+  <wpt lat="37.339860000" lon="-76.192696667">
+    <name>AICW -39</name>
+  </wpt>
+  <wpt lat="36.893563333" lon="-76.334031667">
+    <name>AICW -4</name>
+  </wpt>
+  <wpt lat="37.352301667" lon="-76.182988333">
+    <name>AICW -40</name>
+  </wpt>
+  <wpt lat="37.364283333" lon="-76.172988333">
+    <name>AICW -41</name>
+  </wpt>
+  <wpt lat="37.377528333" lon="-76.167336667">
+    <name>AICW -42</name>
+  </wpt>
+  <wpt lat="37.392151667" lon="-76.166756667">
+    <name>AICW -43</name>
+  </wpt>
+  <wpt lat="37.406773333" lon="-76.167915000">
+    <name>AICW -44</name>
+  </wpt>
+  <wpt lat="37.421276667" lon="-76.167625000">
+    <name>AICW -45</name>
+  </wpt>
+  <wpt lat="37.435661667" lon="-76.167191667">
+    <name>AICW -46</name>
+  </wpt>
+  <wpt lat="37.450275000" lon="-76.166466667">
+    <name>AICW -47</name>
+  </wpt>
+  <wpt lat="37.464655000" lon="-76.166031667">
+    <name>AICW -48</name>
+  </wpt>
+  <wpt lat="37.479263333" lon="-76.165741667">
+    <name>AICW -49</name>
+  </wpt>
+  <wpt lat="36.908038333" lon="-76.334690000">
+    <name>AICW -5</name>
+  </wpt>
+  <wpt lat="37.493751667" lon="-76.165886667">
+    <name>AICW -50</name>
+  </wpt>
+  <wpt lat="37.508238333" lon="-76.165741667">
+    <name>AICW -51</name>
+  </wpt>
+  <wpt lat="37.522723333" lon="-76.165451667">
+    <name>AICW -52</name>
+  </wpt>
+  <wpt lat="37.537203333" lon="-76.165596667">
+    <name>AICW -53</name>
+  </wpt>
+  <wpt lat="37.551681667" lon="-76.165306667">
+    <name>AICW -54</name>
+  </wpt>
+  <wpt lat="37.566158333" lon="-76.164871667">
+    <name>AICW -55</name>
+  </wpt>
+  <wpt lat="37.580630000" lon="-76.164726667">
+    <name>AICW -56</name>
+  </wpt>
+  <wpt lat="37.595100000" lon="-76.164581667">
+    <name>AICW -57</name>
+  </wpt>
+  <wpt lat="37.609566667" lon="-76.164003333">
+    <name>AICW -58</name>
+  </wpt>
+  <wpt lat="37.623916667" lon="-76.163713333">
+    <name>AICW -59</name>
+  </wpt>
+  <wpt lat="36.922561667" lon="-76.336203333">
+    <name>AICW -6</name>
+  </wpt>
+  <wpt lat="37.638378333" lon="-76.163568333">
+    <name>AICW -60</name>
+  </wpt>
+  <wpt lat="37.652951667" lon="-76.164003333">
+    <name>AICW -61</name>
+  </wpt>
+  <wpt lat="37.667291667" lon="-76.164148333">
+    <name>AICW -62</name>
+  </wpt>
+  <wpt lat="37.681860000" lon="-76.164003333">
+    <name>AICW -63</name>
+  </wpt>
+  <wpt lat="37.696425000" lon="-76.164148333">
+    <name>AICW -64</name>
+  </wpt>
+  <wpt lat="37.710916667" lon="-76.164195000">
+    <name>AICW -65</name>
+  </wpt>
+  <wpt lat="37.725475000" lon="-76.163325000">
+    <name>AICW -66</name>
+  </wpt>
+  <wpt lat="37.739916667" lon="-76.162890000">
+    <name>AICW -67</name>
+  </wpt>
+  <wpt lat="37.754356667" lon="-76.162600000">
+    <name>AICW -68</name>
+  </wpt>
+  <wpt lat="37.768791667" lon="-76.161730000">
+    <name>AICW -69</name>
+  </wpt>
+  <wpt lat="36.936978333" lon="-76.337586667">
+    <name>AICW -7</name>
+  </wpt>
+  <wpt lat="37.783225000" lon="-76.162165000">
+    <name>AICW -70</name>
+  </wpt>
+  <wpt lat="37.797770000" lon="-76.161875000">
+    <name>AICW -71</name>
+  </wpt>
+  <wpt lat="37.812083333" lon="-76.160571667">
+    <name>AICW -72</name>
+  </wpt>
+  <wpt lat="37.826621667" lon="-76.157528333">
+    <name>AICW -73</name>
+  </wpt>
+  <wpt lat="37.840586667" lon="-76.153760000">
+    <name>AICW -74</name>
+  </wpt>
+  <wpt lat="37.854661667" lon="-76.149266667">
+    <name>AICW -75</name>
+  </wpt>
+  <wpt lat="37.868735000" lon="-76.144920000">
+    <name>AICW -76</name>
+  </wpt>
+  <wpt lat="37.882691667" lon="-76.142021667">
+    <name>AICW -77</name>
+  </wpt>
+  <wpt lat="37.896073333" lon="-76.149121667">
+    <name>AICW -78</name>
+  </wpt>
+  <wpt lat="37.909566667" lon="-76.155065000">
+    <name>AICW -79</name>
+  </wpt>
+  <wpt lat="36.951393333" lon="-76.336928333">
+    <name>AICW -8</name>
+  </wpt>
+  <wpt lat="37.922943333" lon="-76.162020000">
+    <name>AICW -80</name>
+  </wpt>
+  <wpt lat="37.936318333" lon="-76.169266667">
+    <name>AICW -81</name>
+  </wpt>
+  <wpt lat="37.949575000" lon="-76.176658333">
+    <name>AICW -82</name>
+  </wpt>
+  <wpt lat="37.962716667" lon="-76.184483333">
+    <name>AICW -83</name>
+  </wpt>
+  <wpt lat="37.975855000" lon="-76.191730000">
+    <name>AICW -84</name>
+  </wpt>
+  <wpt lat="37.988991667" lon="-76.199266667">
+    <name>AICW -85</name>
+  </wpt>
+  <wpt lat="38.001668333" lon="-76.208396667">
+    <name>AICW -86</name>
+  </wpt>
+  <wpt lat="38.014913333" lon="-76.215786667">
+    <name>AICW -87</name>
+  </wpt>
+  <wpt lat="38.027928333" lon="-76.223033333">
+    <name>AICW -88</name>
+  </wpt>
+  <wpt lat="38.041740000" lon="-76.231148333">
+    <name>AICW -89</name>
+  </wpt>
+  <wpt lat="36.965830000" lon="-76.336460000">
+    <name>AICW -9</name>
+  </wpt>
+  <wpt lat="38.054865000" lon="-76.238685000">
+    <name>AICW -90</name>
+  </wpt>
+  <wpt lat="38.068215000" lon="-76.245931667">
+    <name>AICW -91</name>
+  </wpt>
+  <wpt lat="38.081221667" lon="-76.254046667">
+    <name>AICW -92</name>
+  </wpt>
+  <wpt lat="38.094453333" lon="-76.261728333">
+    <name>AICW -93</name>
+  </wpt>
+  <wpt lat="38.107568333" lon="-76.269263333">
+    <name>AICW -94</name>
+  </wpt>
+  <wpt lat="38.120793333" lon="-76.277380000">
+    <name>AICW -95</name>
+  </wpt>
+  <wpt lat="38.133790000" lon="-76.285060000">
+    <name>AICW -96</name>
+  </wpt>
+  <wpt lat="38.146898333" lon="-76.292306667">
+    <name>AICW -97</name>
+  </wpt>
+  <wpt lat="38.159776667" lon="-76.301001667">
+    <name>AICW -98</name>
+  </wpt>
+  <wpt lat="38.172538333" lon="-76.309986667">
+    <name>AICW -99</name>
+  </wpt>
+</gpx>

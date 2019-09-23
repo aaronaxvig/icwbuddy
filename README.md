@@ -12,6 +12,8 @@ Data points are named AICW 0, AICW 1, etc.  For the Dismal Swamp route there are
 ### Coverage
 The data includes miles 0-1153 of the AICW, and includes the alternate route through the Dismal Swamp.  I am not very familiar with the routes past mile 1153 in the Keys so have not attempted to mark those miles out.  The Hawk Channel could easily be measured out and marked as AICW Hawk 1201 for example and I will probably do that sometime.
 
+I have also added some data for areas north of mile 0.  I am not aware of an official description of a designated waterway there so used my own judgement to pick the route.  Some factors in choosing the route were protection, directness, and draft (above and below).  So the route goes up the Chesapeake Bay, through the C&D Canal, down the Delaware River, through the NJ waterway, through the East River in New York into Long Island Sound, through the Cape Cod Canal, through the Blynman Canal (near Gloucester), and through some of the thoroughfares in Maine.
+
 ### Accuracy
 The miles are traced on the magenta line from each five-mile marker that is shown on the NOAA raster (RNC) charts.  Starting at mile 0 for example, the next four points are each one mile "south" along the magenta line.  The space between the fourth and fifth mile markers of any given section often varies short or long by up to 0.15 miles, and rarely up to 0.5 miles off.  I felt that this approach was good because it gives the most spans that are actually one mile in length and was easy to implement.
 
