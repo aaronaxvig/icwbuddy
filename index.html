@@ -64,7 +64,7 @@
             document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5); 
             document.getElementById("nearest").innerHTML = nearest.properties.name;
             document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
-            document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
+            document.getElementById("accuracy").innerHTML = position.coords.accuracy + " nautical miles";
             var now = new moment();
             document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
         }
