@@ -37,15 +37,15 @@
             document.getElementById("status").innerHTML = "Getting location";
             var options = {
                 enableHighAccuracy: true,
-                timeout: 20000,
-                maximumAge: 10000
+                timeout: 27000,
+                maximumAge: 30000
             };
 
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(showPosition, showError, options);
             } 
             else {
-                x.innerHTML = "Geolocation is not supported by this browser.";
+                document.getElementById("status").innerHTML = "Geolocation is not supported by this browser.";
             }
         }
 
@@ -63,7 +63,7 @@
             document.getElementById("latitude").innerHTML = position.coords.latitude.toFixed(5); 
             document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5);
             if (position.coords.accuracy > 1000) {
-                document.getElementById("nearest").innerHTML = nearest.properties.name + "maybe";
+                document.getElementById("nearest").innerHTML = nearest.properties.name + " maybe";
             }
             else {
                 document.getElementById("nearest").innerHTML = nearest.properties.name;
@@ -77,16 +77,16 @@
         function showError(error) {
             switch(error.code) {
                 case error.PERMISSION_DENIED:
-                x.innerHTML = "User denied the request for geolocation."
+                document.getElementById("status").innerHTML = "User denied the request for geolocation."
                 break;
                 case error.POSITION_UNAVAILABLE:
-                x.innerHTML = "Location information is unavailable."
+                document.getElementById("status").innerHTML = "Location information is unavailable."
                 break;
                 case error.TIMEOUT:
-                x.innerHTML = "The request to get user location timed out."
+                document.getElementById("status").innerHTML = "The request to get user location timed out."
                 break;
                 case error.UNKNOWN_ERROR:
-                x.innerHTML = "An unknown error occurred."
+                document.getElementById("status").innerHTML = "An unknown error occurred."
                 break;
             }
         } 
@@ -98,7 +98,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.2</li>
+                <li>v1.3</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
