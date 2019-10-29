@@ -66,7 +66,7 @@
             document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5);
 
             document.getElementById("status").innerHTML = "Setting distance value";
-            document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
+            //document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
 
             document.getElementById("status").innerHTML = "Setting accuracy value";
             document.getElementById("accuracy").innerHTML = position.coords.accuracy.toFixed(0) + " meters";
@@ -114,7 +114,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.8</li>
+                <li>v1.9</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
