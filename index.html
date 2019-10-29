@@ -61,10 +61,15 @@
             var nearest = turf.nearestPoint(currentLocation, data);
 
             document.getElementById("latitude").innerHTML = position.coords.latitude.toFixed(5); 
-            document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5); 
-            document.getElementById("nearest").innerHTML = nearest.properties.name;
+            document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5);
+            if (position.coords.accuracy > 1000) {
+                document.getElementById("nearest").innerHTML = nearest.properties.name + "maybe";
+            }
+            else {
+                document.getElementById("nearest").innerHTML = nearest.properties.name;
+            }
             document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
-            document.getElementById("accuracy").innerHTML = position.coords.accuracy + " nautical miles";
+            document.getElementById("accuracy").innerHTML = position.coords.accuracy.toFixed(1) + " meters";
             var now = new moment();
             document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
         }
@@ -93,7 +98,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.1</li>
+                <li>v1.2</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
