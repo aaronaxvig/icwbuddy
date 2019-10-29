@@ -4,3 +4,6 @@
 .menu li {
     display: inline;
 }
+#mapid {
+    height: 180px;
+}
