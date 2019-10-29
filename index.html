@@ -58,19 +58,29 @@
             // 0.3 miles from AICW 6
             //var currentLocation = turf.point([-76.2932567,36.7960833]);
             
+            document.getElementById("status").innerHTML = "Running calculations.";
             var nearest = turf.nearestPoint(currentLocation, data);
+            document.getElementById("status").innerHTML = "Running calculations..";
 
             document.getElementById("latitude").innerHTML = position.coords.latitude.toFixed(5); 
             document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5);
+
+            document.getElementById("status").innerHTML = "Running calculations...";
             if (position.coords.accuracy > 1000) {
                 document.getElementById("nearest").innerHTML = nearest.properties.name + " maybe";
+                document.getElementById("status").innerHTML = "Running calculations....";
             }
             else {
                 document.getElementById("nearest").innerHTML = nearest.properties.name;
+                document.getElementById("status").innerHTML = "Running calculations....!";
             }
+
             document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
+            document.getElementById("status").innerHTML = "Running calculations.....";
             document.getElementById("accuracy").innerHTML = position.coords.accuracy.toFixed(0) + " meters";
+            document.getElementById("status").innerHTML = "Running calculations.....";
             var now = new moment();
+            document.getElementById("status").innerHTML = "Running calculations......";
             document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
         }
 
@@ -100,7 +110,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.5</li>
+                <li>v1.6</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
