@@ -37,8 +37,8 @@
             document.getElementById("status").innerHTML = "Getting location";
             var options = {
                 enableHighAccuracy: true,
-                timeout: 27000,
-                maximumAge: 30000
+                timeout: Infinity,
+                maximumAge: 0
             };
 
             if (navigator.geolocation) {
@@ -110,7 +110,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.6</li>
+                <li>v1.7</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
