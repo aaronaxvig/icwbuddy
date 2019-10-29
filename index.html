@@ -69,7 +69,7 @@
                 document.getElementById("nearest").innerHTML = nearest.properties.name;
             }
             document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
-            document.getElementById("accuracy").innerHTML = position.coords.accuracy.toFixed(1) + " meters";
+            document.getElementById("accuracy").innerHTML = position.coords.accuracy.toFixed(0) + " meters";
             var now = new moment();
             document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
         }
@@ -98,7 +98,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.3</li>
+                <li>v1.4</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
