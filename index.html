@@ -77,17 +77,19 @@
         function showError(error) {
             switch(error.code) {
                 case error.PERMISSION_DENIED:
-                document.getElementById("status").innerHTML = "User denied the request for geolocation."
-                break;
+                    document.getElementById("status").innerHTML = "User denied the request for geolocation."
+                    break;
                 case error.POSITION_UNAVAILABLE:
-                document.getElementById("status").innerHTML = "Location information is unavailable."
-                break;
+                    document.getElementById("status").innerHTML = "Location information is unavailable."
+                    break;
                 case error.TIMEOUT:
-                document.getElementById("status").innerHTML = "The request to get user location timed out."
-                break;
+                    document.getElementById("status").innerHTML = "The request to get user location timed out."
+                    break;
                 case error.UNKNOWN_ERROR:
-                document.getElementById("status").innerHTML = "An unknown error occurred."
-                break;
+                    document.getElementById("status").innerHTML = "An unknown error occurred."
+                    break;
+                default:
+                    document.getElementById("status").innerHTML = "A really unknown error occurred."
             }
         } 
 
@@ -98,7 +100,7 @@
                 <li>Main</li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="data.html">Data</a></li>
-                <li>v1.4</li>
+                <li>v1.5</li>
             </ul>
         </nav>
         <div style='border: 3px solid black; border-radius: 10px; text-align: center; display: inline-block; padding: 10px'>
