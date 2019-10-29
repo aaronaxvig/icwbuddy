@@ -35,8 +35,14 @@
 
         function getLocation() {
             document.getElementById("status").innerHTML = "Getting location";
+            var options = {
+                enableHighAccuracy: true,
+                timeout: 20000,
+                maximumAge: 10000
+            };
+
             if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(showPosition, showError);
+                navigator.geolocation.getCurrentPosition(showPosition, showError, options);
             } 
             else {
                 x.innerHTML = "Geolocation is not supported by this browser.";
@@ -57,6 +63,7 @@
             document.getElementById("latitude").innerHTML = position.coords.latitude.toFixed(5); 
             document.getElementById("longitude").innerHTML = position.coords.longitude.toFixed(5); 
             document.getElementById("nearest").innerHTML = nearest.properties.name;
+            document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
             document.getElementById("distance").innerHTML = (nearest.properties.distanceToPoint / 1.852).toFixed(2) + " nautical miles";
             var now = new moment();
             document.getElementById("status").innerHTML = "Updated at " + now.format("HH:mm:ss");
@@ -98,12 +105,16 @@
                 <td id="status"></td>
             </tr>
             <tr>
-                <td>Latitude:</td>
+                <td>My latitude:</td>
                 <td id="latitude"></td>
             </tr>
             <tr>
-                <td>Longitude:</td>
+                <td>My longitude:</td>
                 <td id="longitude"></td>
+            </tr>
+            <tr>
+                <td>My position accuracy:</td>
+                <td id="accuracy"></td>
             </tr>
             <tr>
                 <td>Distance to nearest mile mark:</td>
